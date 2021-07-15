@@ -1,7 +1,6 @@
 Olá! 👋
 
 Meu nome é Renan Braga.
-
 Sou estudante de Desenvolvimento de Software Full Stack Júnior na Trybe, sou amante da ciência, tecnologia, inovação e educação.
 - Possuo experiência com fundamentos do desenvolvimento web, HTML, CSS, JS.
 - Finalizei recentemente o módulo de Front-End com ReactJS, JestJS, Redux, entre outras ferramentas.
