@@ -1,11 +1,13 @@
 Olá! 👋
 
-Meu nome é Renan Braga. Sou do Rio de Janeiro, Rj - Brasil :sunglasses:.
+Meu nome é **Renan Braga**. Sou do Rio de Janeiro, Rj - Brasil :sunglasses:.
 Sou estudante de Desenvolvimento de Software Full Stack Júnior na Trybe, sou amante da ciência, tecnologia, inovação e educação.
 - Possuo experiência com fundamentos do desenvolvimento web, HTML, CSS, JS.
-- Finalizei recentemente o módulo de Front-End com ReactJS, JestJS, Redux, entre outras ferramentas.
+- Finalizei recentemente o módulo de Front-End com ReactJS, JestJS, ContextAPI, Redux, entre outras ferramentas.
 - Busco aperfeiçoamento contínuo por meio de projetos e cursos. Também desenvolvo aplicações web em Bubble.io (no-code) e web sites com Wordpress e Elementor, como freelancer.
 - Trabalho, invento e acredito em ações que possam gerar um impacto positivo na vida das pessoas.
+
+Atualmente estou desenvolvendo um jogo em ReactJS, Boticarium (em desenvolvimento), nos repositórios, onde tento por em prática todo o conhecimento adquirido até o momento e que faça sentido estar na aplicação.
 <!--
 **renanpbraga/renanpbraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
