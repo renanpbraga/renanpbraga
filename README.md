@@ -4,6 +4,7 @@ Meu nome é **Renan Braga**. Sou do Rio de Janeiro, Rj - Brasil :sunglasses:.
 Sou estudante de Desenvolvimento de Software Full Stack Júnior na Trybe, sou amante da ciência, tecnologia, inovação e educação.
 - Possuo experiência com fundamentos do desenvolvimento web, HTML, CSS, JS.
 - Finalizei recentemente o módulo de Front-End com ReactJS, JestJS, ContextAPI, Redux, entre outras ferramentas.
+- No momento encontro-me no final do módulo de Back-End, onde já estudei: MySQL, MongoDB e Node.js.
 - Busco aperfeiçoamento contínuo por meio de projetos e cursos. Também desenvolvo aplicações web em Bubble.io (no-code) e web sites com Wordpress e Elementor, como freelancer.
 - Trabalho, invento e acredito em ações que possam gerar um impacto positivo na vida das pessoas.
 
