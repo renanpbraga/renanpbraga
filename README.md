@@ -10,7 +10,9 @@ Sou estudante de Desenvolvimento de Software Full Stack Júnior na Trybe, sou am
 
 Atualmente estou desenvolvendo um jogo em ReactJS, Boticarium (em desenvolvimento), nos repositórios, onde tento por em prática todo o conhecimento adquirido até o momento e que faça sentido estar na aplicação.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renanpbraga)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanpbraga)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renanpbraga)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanpbraga)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **renanpbraga/renanpbraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
