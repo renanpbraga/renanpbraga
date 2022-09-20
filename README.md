@@ -1,12 +1,9 @@
 Olá! 👋
 
 Meu nome é **Renan Braga**. Sou do Rio de Janeiro, Rj - Brasil :sunglasses:.
-Sou estudante de Desenvolvimento de Software Full Stack Júnior na Trybe, sou amante da ciência, tecnologia, inovação e educação.
-- Possuo experiência com fundamentos do desenvolvimento web, HTML, CSS, JS.
-- Finalizei recentemente o módulo de Front-End com ReactJS, JestJS, ContextAPI, Redux, entre outras ferramentas.
-- No momento encontro-me no final do módulo de Back-End, onde já estudei: MySQL, MongoDB e Node.js.
-- Busco aperfeiçoamento contínuo por meio de projetos e cursos. Também desenvolvo aplicações web em Bubble.io (no-code) e web sites com Wordpress e Elementor, como freelancer.
-- Trabalho, invento e acredito em ações que possam gerar um impacto positivo na vida das pessoas.
+<br>
+Atuo como desenvolvedor de Front-end desde outubro de 2021. Tenho o mesmo tempo de experiência com Angular, tenho certo carinho por ele e seus módulos.
+Mas também desenvolvo e tenho experiência com React.
 
 <h3>Contato</h3>
   <div align="left">
@@ -33,23 +30,14 @@ Sou estudante de Desenvolvimento de Software Full Stack Júnior na Trybe, sou am
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="5%" />
    </a>
+   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" width="5%" />
+   </a>
+   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1024px-Angular_full_color_logo.svg.png" width="5%" />
+   </a>
    <a href="https://pt-br.reactjs.org/" > 
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="6%" />
-   </a>
-   <a href="https://redux.js.org/"> 
-      <img src="https://redux.js.org/img/redux-logo-landscape.png" width="9%" />
-   </a>
-   <a href="https://pt-br.reactjs.org/docs/hooks-intro.html"> 
-      <img src="https://miro.medium.com/max/992/1*vNxRoIvGAIXuArDaSRYjLw.png" width="10%" />
-   </a>
-   <a href="https://reactrouter.com/"> 
-      <img src="https://blog.karenying.com/static/b17f2b049068979741a79588250ad8cb/nav-bar-with-dot.png" width="9%" />
-   </a>
-   <a href="https://jestjs.io/"> 
-      <img src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" width="4%" />
-   </a>
-   <a href="https://testing-library.com/docs/react-testing-library/intro"> 
-      <img src="https://smartgermz.com/static/media/react-testing-library.79395fc5.png" width="5%" />
    </a>
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"> 
       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="5%" />
@@ -63,27 +51,8 @@ Sou estudante de Desenvolvimento de Software Full Stack Júnior na Trybe, sou am
    <a href="https://getbootstrap.com/"> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="5%" />
    </a>
-   <a href="#"> 
-      <img src="https://toppng.com/uploads/preview/mysql-logo-vector-free-download-11573934106vmvysk1ovw.png" width="5%"/>
-   </a>
-    <a href="https://www.mongodb.com/pt-br"> 
-      <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.png" width="8%"/>
-   </a>                                                                                          
    </div>
-
-## Sobre mim
-Sou um cara feliz, tranquilo na maioria do tempo.
-
-Tive meu primeiro video-game aos 5 anos de idade, então sou fã do Super Mario e Prince of Persia clássico!
-
-Fã de jogos de RPG, também jogo RPG de papel, isso é muito bom, pois o RPG mudou minha vida. Sou fã de livros de fantasia também, Warcraft, Dragonlance, The Witcher.
-
-Sou metaleiro, mas não é qualquer metal que me agrada não. rs. Bandas como Blind Guardian, Angra, Haggard, Metallica, AC/DC, Kamelot, Nightwish (com a Tarja Turunen), Rhapsody (antigo) e Luca Turilli, entre outras bandas de metal melódico e power metal são minhas preferidas.
-
-Sou fãzasso de documentários de vida animal, tecnologia entre outros assuntos.
-
-Tento fazer da minha vida uma verdadeira alquimia, tentando extrair o melhor de tudo que faço. Alquimia também lembra misturas, o que classifica também um pouco da minha vida. Como assim? Bem... Doutor em agronomia, Projetista 3D, Professor de ciências, Desenvolvedor Web... é, esse sou eu.
-
+   
 #### Softskills
 - Ser professor me tornou uma pessoa muito mais comunicativa, empática.
 - Ter transitado por tantas áreas melhorou muito meu autoconhecimento e poder de decisão.
