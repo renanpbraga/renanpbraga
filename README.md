@@ -27,30 +27,15 @@ Mas também desenvolvo e tenho experiência com React.
     
  <div align="left">
    <h3 align="left"> Tecnologias :computer:  </h3>
-   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="5%" />
-   </a>
-   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" width="5%" />
-   </a>
-   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1024px-Angular_full_color_logo.svg.png" width="5%" />
-   </a>
-   <a href="https://pt-br.reactjs.org/" > 
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="6%" />
-   </a>
-   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"> 
-      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="5%" />
-   </a>
-   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"> 
-      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="5%" />
-   </a>
-   <a href="https://git-scm.com/"> 
-      <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="5%" />
-   </a>
-   <a href="https://getbootstrap.com/"> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" width="6%" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="5%" />
-   </a>
+      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="5%" /> 
+      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="5%" />
+      <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="5%" />
    </div>
    
 #### Softskills
